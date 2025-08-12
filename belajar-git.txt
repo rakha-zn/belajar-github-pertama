@@ -1,3 +1,9 @@
 Ini adalah contoh membuat file langsung didalam github
 
 Saya ingin fokus mempelajari javascript dan framework dari javascript yaitu React JS
+
+
+
+
+
+Membuat branch
